@@ -28,6 +28,7 @@
 
 	</dependencies>
 	<build>
+	    <finalName>GoEuroTest</finalName>
 		<plugins>
 			<!-- Maven Assembly Plugin -->
 			<plugin>
